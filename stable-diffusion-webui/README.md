@@ -28,6 +28,8 @@ Alternatively, use online services (like Google Colab):
 5. _*(Optional)*_ Place `GFPGANv1.4.pth` in the base directory, alongside `webui.py` (see [dependencies](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Dependencies) for where to get it).
 6. Run `webui-user.bat` from Windows Explorer as normal, non-administrator, user.
 
+
+
 ### Automatic Installation on Linux
 1. Install the dependencies:
 ```bash
